@@ -75,7 +75,7 @@ body {
     the other elements, you will need to move that div outside
     of the container */
 #container {
-    max-width: 900px;
+    max-width: 1440px;
     /* this is the width of your layout! */
     /* if you change the above value, scroll to the bottom
       and change the media query according to the comment! */
@@ -97,7 +97,7 @@ body {
     width: 100%;
     background-color: #5e4e8c;
     /* header color here! */
-    height: 150px;
+    height: 200px;
     /* this is only for a background image! */
     /* if you want to put images IN the header, 
       you can add them directly to the <div id="header"></div> element! */
@@ -107,7 +107,7 @@ body {
 
 /* navigation section!! */
 #navbar {
-    height: 40px;
+    height: 50px;
     background-color: #13092D;
     /* navbar color */
     width: 100%;
@@ -122,7 +122,7 @@ body {
 }
 
 #navbar li {
-    padding-top: 10px;
+    padding-top: 15px;
 }
 
 /* navigation links*/
@@ -149,7 +149,7 @@ body {
     create styles for #leftSidebar and #rightSidebar */
 aside {
     background-color: #241445;
-    width: 200px;
+    width: 250px;
     padding: 20px;
     font-size: smaller;
     /* this makes the sidebar text slightly smaller */
