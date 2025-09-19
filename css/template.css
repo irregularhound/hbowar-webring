@@ -26,31 +26,17 @@
     */
 
 @font-face {
-    font-family: Nunito;
-    src: url('https://sadhost.neocities.org/fonts/Nunito-Regular.ttf');
+    font-family: Bohemian Typewriter;
+    src: url('fonts/Bohemian Typewriter.ttf');
 }
 
 @font-face {
-    font-family: Nunito;
-    src: url('https://sadhost.neocities.org/fonts/Nunito-Bold.ttf');
-    font-weight: bold;
-}
-
-@font-face {
-    font-family: Nunito;
-    src: url('https://sadhost.neocities.org/fonts/Nunito-Italic.ttf');
-    font-style: italic;
-}
-
-@font-face {
-    font-family: Nunito;
-    src: url('https://sadhost.neocities.org/fonts/Nunito-BoldItalic.ttf');
-    font-style: italic;
-    font-weight: bold;
+    font-family: Cut Outs FLF;
+    src: url('fonts/CutOutsFLF.ttf');
 }
 
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Bohemian Typewriter';
     margin: 0;
     background-color: #08031A;
     /* you can delete the line below if you'd prefer to not use an image */
@@ -192,11 +178,16 @@ footer {
 h1,
 h2,
 h3 {
+    font-family: 'Cut Outs FLF';
+    text-transform: uppercase;
     color: #ED64F5;
 }
 
 h1 {
-    font-size: 25px;
+    font-size: 2.5em;
+    text-align: center;
+    text-decoration: underline;
+
 }
 
 strong {
