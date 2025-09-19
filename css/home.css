@@ -1,0 +1,12 @@
+.siteButton {
+  margin: 0 5em;
+}
+
+.runningGIF {
+    width: 25em;
+    margin: 0 15.75em;
+}
+
+@media only screen and (max-width: 1340px) {
+
+}
