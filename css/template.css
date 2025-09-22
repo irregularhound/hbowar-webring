@@ -212,6 +212,15 @@ strong {
     background-color: #13092D;
 }
 
+#rightSidebar iframe {
+    display: block;
+    margin: 0 auto;
+}
+  
+.siteButton {
+    display: block;
+    margin: 0 auto;
+}
 
 /* BELOW THIS POINT IS MEDIA QUERY */
 
