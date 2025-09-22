@@ -8,6 +8,7 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'https://bibliohound.neocities.org/',
+'https://www.hbowar.xyz/',
 ];
 
 //the name of the ring
