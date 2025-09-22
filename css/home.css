@@ -3,9 +3,20 @@
 }
 
 .runningGIF {
+  display: block;
     width: 25em;
-    margin: 0 15.75em;
+  margin: 0 auto;
 }
+
+  #rightSidebar iframe {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .siteButton {
+    display: block;
+    margin: 0 auto;
+  }
 
 @media only screen and (max-width: 1340px) {
 
