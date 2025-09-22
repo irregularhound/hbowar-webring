@@ -5,32 +5,32 @@
 /* === ONIONRING.CSS === */
 /* this file affects the style of the widget. remember to replace all instances of #webringid with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
 
-#hbowar-ring {
+#hbowar-webring {
   margin: 0 auto;
   padding: 15px; /* creates some space around the widget */
 }
 
-#hbowar-ring table {
+#hbowar-webring table {
   background-color: #ffffff; /* makes the background pure white */
   margin: 0 auto; /* centers the widget */
 }
 
-#hbowar-ring table tr td {
+#hbowar-webring table tr td {
   padding: 15px; /* creates some space between the links and text inside the widget */
 }
 
-#hbowar-ring .webring-prev {
+#hbowar-webring .webring-prev {
   text-align:right;
 }
 
-#hbowar-ring .webring-info {
+#hbowar-webring .webring-info {
    text-align:center;
 }
 
-#hbowar-ring .webring-next {
+#hbowar-webring .webring-next {
   text-align:left;
 }
 
-#hbowar-ring .webring-links {
+#hbowar-webring .webring-links {
   font-size:small;
 }
