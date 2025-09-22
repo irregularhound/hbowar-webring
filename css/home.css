@@ -1,5 +1,9 @@
 .runningGIF {
   display: block;
-    width: 25em;
+  width: 100%
+}
+
+img.runningGIF {
+   width: 25em;
   margin: 0 auto;
 }
